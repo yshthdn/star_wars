@@ -9,8 +9,6 @@ router.register(
     basename = 'movies'
 )
 
-
-
 router.register(
     r'planet',
     PlanetViewSet,
