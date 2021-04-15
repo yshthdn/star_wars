@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+build/
+**/src/melorra/settings.py
+**/config
+**/melorra/wsgi.py
